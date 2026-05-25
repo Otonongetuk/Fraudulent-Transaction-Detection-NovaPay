@@ -1,0 +1,1 @@
+# this file contains all the libraries that are used in this project. It is used to install all the libraries at once using pip install -r requirements.txt
